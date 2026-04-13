@@ -30,7 +30,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/output/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/a-elradi/a-elradi/main/output/metrics.svg" />
 </p>
 
 ---
