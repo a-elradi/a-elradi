@@ -35,6 +35,8 @@
 
 ---
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=a-elradi)
+![Stats](https://github-readme-stats.vercel.app/api?username=a-elradi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak]()
+![Streak](https://streak-stats.demolab.com/?user=a-elradi&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-elradi&layout=compact&theme=tokyonight&hide_border=true)
