@@ -27,6 +27,13 @@
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/output/metrics.svg" />
+</p>
+
+---
 ## 📊 GitHub Stats
 ![Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true](https://github.com/a-elradi))
 
