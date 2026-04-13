@@ -14,6 +14,13 @@
 - 💻 Software Developer
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a-elradi/a-elradi/main/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🧠 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=python,cpp,arduino,opencv,tensorflow,git,linux)
