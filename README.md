@@ -17,7 +17,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a-elradi/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/a-elradi/a-elradi/output/github-snake.svg" />
 </p>
 
 ---
