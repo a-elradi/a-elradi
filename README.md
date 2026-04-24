@@ -25,13 +25,7 @@
 ## 🧠 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=python,cpp,arduino,opencv,tensorflow,git,linux)
 
----
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/a-elradi/a-elradi/main/output/metrics.svg" />
-</p>
 
 ---
 ## 📊 GitHub Stats
