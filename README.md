@@ -1,9 +1,9 @@
 <p align="center">
   <img src="banner.svg" />
 </p>
-# 👋 Hi, I'm Abdalla Elradi
+  Hi, I'm Abdalla Elradi 
 
-💡 Informatics Engineer passionate about AI, Robotics, and Computer Vision.
+Informatics Engineer passionate about AI, Robotics, and Computer Vision.
 
 ---
 
