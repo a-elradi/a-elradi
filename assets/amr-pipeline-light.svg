@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="250" viewBox="0 0 1100 250" fill="none" role="img" aria-label="AMR warehouse robot — vision to navigation pipeline">
+<title>AMR warehouse robot — vision to navigation pipeline</title>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.mono{font-family:"JetBrains Mono","Fira Code","Cascadia Code",Consolas,"Courier New",monospace}
+.fade{opacity:0;animation:fade .9s ease-out forwards}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.22,.7,.3,1) forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.35)}}
+@keyframes glow{0%,100%{opacity:0.14;transform:scale(1)}50%{opacity:0.30;transform:scale(1.08)}}
+@keyframes float{0%,100%{transform:translate(0,0)}25%{transform:translate(-14px,-18px)}50%{transform:translate(10px,-8px)}75%{transform:translate(-8px,14px)}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes shimmer{from{transform:translateX(-1200px)}to{transform:translateX(1200px)}}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;animation-delay:0s!important;animation-iteration-count:1!important}}
+.d0{animation-delay:0.00s}.d1{animation-delay:0.12s}.d2{animation-delay:0.24s}.d3{animation-delay:0.36s}.d4{animation-delay:0.48s}.d5{animation-delay:0.60s}.d6{animation-delay:0.72s}.d7{animation-delay:0.84s}.d8{animation-delay:0.96s}.d9{animation-delay:1.08s}.d10{animation-delay:1.20s}.d11{animation-delay:1.32s}.d12{animation-delay:1.44s}.d13{animation-delay:1.56s}.d14{animation-delay:1.68s}.d15{animation-delay:1.80s}.d16{animation-delay:1.92s}.d17{animation-delay:2.04s}.d18{animation-delay:2.16s}.d19{animation-delay:2.28s}.d20{animation-delay:2.40s}.d21{animation-delay:2.52s}.d22{animation-delay:2.64s}.d23{animation-delay:2.76s}.d24{animation-delay:2.88s}.d25{animation-delay:3.00s}.d26{animation-delay:3.12s}.d27{animation-delay:3.24s}.d28{animation-delay:3.36s}.d29{animation-delay:3.48s}.d30{animation-delay:3.60s}.d31{animation-delay:3.72s}.d32{animation-delay:3.84s}.d33{animation-delay:3.96s}.d34{animation-delay:4.08s}.d35{animation-delay:4.20s}.d36{animation-delay:4.32s}.d37{animation-delay:4.44s}.d38{animation-delay:4.56s}.d39{animation-delay:4.68s}.flow{animation:dash 1.2s linear infinite}</style>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#e5e7eb" stroke-width="1"/></pattern></defs>
+
+<rect width="1100" height="250" rx="24" fill="#ffffff"/>
+<rect width="1100" height="250" rx="24" fill="url(#grid)" opacity="0.9"/>
+<rect x="176.0" y="104" width="560" height="92" rx="20" stroke="#059669" stroke-opacity=".35" stroke-dasharray="4 6"/>
+<text class="mono" x="176.0" y="96" font-size="10" fill="#059669" letter-spacing="2">MY PART — VISION PIPELINE + WEB GUI / MQTT BRIDGE</text>
+<path class="flow" d="M160.0,150.0 H188.0" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/><path class="flow" d="M348.0,150.0 H376.0" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/><path class="flow" d="M536.0,150.0 H564.0" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/><path class="flow" d="M724.0,150.0 H752.0" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/><path class="flow" d="M912.0,150.0 H940.0" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/>
+<circle r="3" fill="#10b981"><animateMotion dur="1.1s" begin="0.00s" repeatCount="indefinite" path="M160.0,150.0 H188.0"/></circle><circle r="3" fill="#10b981"><animateMotion dur="1.1s" begin="0.18s" repeatCount="indefinite" path="M348.0,150.0 H376.0"/></circle><circle r="3" fill="#10b981"><animateMotion dur="1.1s" begin="0.36s" repeatCount="indefinite" path="M536.0,150.0 H564.0"/></circle><circle r="3" fill="#10b981"><animateMotion dur="1.1s" begin="0.54s" repeatCount="indefinite" path="M724.0,150.0 H752.0"/></circle><circle r="3" fill="#10b981"><animateMotion dur="1.1s" begin="0.72s" repeatCount="indefinite" path="M912.0,150.0 H940.0"/></circle>
+
+<g class="rise d9">
+  <rect x="722.0" y="22" width="220" height="48" rx="12" fill="#f5f5f5" stroke="#e5e7eb"/>
+  <text class="sans" x="832.0" y="42" text-anchor="middle" font-size="12" font-weight="800" fill="#111111">Flask dashboard · MQTT bridge</text>
+  <text class="mono" x="832.0" y="59" text-anchor="middle" font-size="10" fill="#525252">mission orders → ROS 2 topics</text>
+</g>
+<path class="flow" d="M832.0,70 V118" stroke="#059669" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="4 6"/>
+<circle r="3" fill="#10b981"><animateMotion dur="1.3s" repeatCount="indefinite" path="M832.0,70 V118"/></circle>
+
+
+<g class="rise" style="animation-delay:0.30s">
+  <rect x="0.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#e5e7eb" stroke-opacity="1"/>
+  <text class="sans" x="80.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">Orbbec Astra Pro</text>
+  <text class="mono" x="80.0" y="164" text-anchor="middle" font-size="10" fill="#525252">RGB + depth stream</text>
+</g>
+<g class="rise" style="animation-delay:0.42s">
+  <rect x="188.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#059669" stroke-opacity=".8"/>
+  <text class="sans" x="268.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">Detection</text>
+  <text class="mono" x="268.0" y="164" text-anchor="middle" font-size="10" fill="#525252">OpenCV · pyzbar · YOLO</text>
+</g>
+<g class="rise" style="animation-delay:0.54s">
+  <rect x="376.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#059669" stroke-opacity=".8"/>
+  <text class="sans" x="456.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">amr_vision</text>
+  <text class="mono" x="456.0" y="164" text-anchor="middle" font-size="10" fill="#525252">ROS 2 node · Python</text>
+</g>
+<g class="rise" style="animation-delay:0.66s">
+  <rect x="564.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#059669" stroke-opacity=".8"/>
+  <text class="sans" x="644.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">/qr_detection</text>
+  <text class="mono" x="644.0" y="164" text-anchor="middle" font-size="10" fill="#525252">verify shelf · publish</text>
+</g>
+<g class="rise" style="animation-delay:0.78s">
+  <rect x="752.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#e5e7eb" stroke-opacity="1"/>
+  <text class="sans" x="832.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">Nav2 · SLAM</text>
+  <text class="mono" x="832.0" y="164" text-anchor="middle" font-size="10" fill="#525252">Jetson Orin Nano</text>
+</g>
+<g class="rise" style="animation-delay:0.90s">
+  <rect x="940.0" y="118" width="160" height="64" rx="14" fill="#f5f5f5" stroke="#e5e7eb" stroke-opacity="1"/>
+  <text class="sans" x="1020.0" y="146" text-anchor="middle" font-size="13" font-weight="800" fill="#111111">Teensy 4.1</text>
+  <text class="mono" x="1020.0" y="164" text-anchor="middle" font-size="10" fill="#525252">micro-ROS · motors · lift</text>
+</g>
+<text class="mono" x="550.0" y="230" text-anchor="middle" font-size="10" fill="#737373" letter-spacing="2">ROS 2 HUMBLE · JETSON ORIN NANO 8 GB · RPLIDAR C1 · BNO055 IMU · PHARMACEUTICAL WAREHOUSE PICKING</text>
+<rect x=".5" y=".5" width="1099" height="249" rx="24" stroke="#e5e7eb"/>
+
+</svg>

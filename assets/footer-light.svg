@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-label="Let's build the future together">
+<title>Let's build the future together</title>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.mono{font-family:"JetBrains Mono","Fira Code","Cascadia Code",Consolas,"Courier New",monospace}
+.fade{opacity:0;animation:fade .9s ease-out forwards}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.22,.7,.3,1) forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.35)}}
+@keyframes glow{0%,100%{opacity:0.14;transform:scale(1)}50%{opacity:0.30;transform:scale(1.08)}}
+@keyframes float{0%,100%{transform:translate(0,0)}25%{transform:translate(-14px,-18px)}50%{transform:translate(10px,-8px)}75%{transform:translate(-8px,14px)}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes shimmer{from{transform:translateX(-1200px)}to{transform:translateX(1200px)}}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;animation-delay:0s!important;animation-iteration-count:1!important}}
+.d0{animation-delay:0.00s}.d1{animation-delay:0.12s}.d2{animation-delay:0.24s}.d3{animation-delay:0.36s}.d4{animation-delay:0.48s}.d5{animation-delay:0.60s}.d6{animation-delay:0.72s}.d7{animation-delay:0.84s}.d8{animation-delay:0.96s}.d9{animation-delay:1.08s}.d10{animation-delay:1.20s}.d11{animation-delay:1.32s}.d12{animation-delay:1.44s}.d13{animation-delay:1.56s}.d14{animation-delay:1.68s}.d15{animation-delay:1.80s}.d16{animation-delay:1.92s}.d17{animation-delay:2.04s}.d18{animation-delay:2.16s}.d19{animation-delay:2.28s}.d20{animation-delay:2.40s}.d21{animation-delay:2.52s}.d22{animation-delay:2.64s}.d23{animation-delay:2.76s}.d24{animation-delay:2.88s}.d25{animation-delay:3.00s}.d26{animation-delay:3.12s}.d27{animation-delay:3.24s}.d28{animation-delay:3.36s}.d29{animation-delay:3.48s}.d30{animation-delay:3.60s}.d31{animation-delay:3.72s}.d32{animation-delay:3.84s}.d33{animation-delay:3.96s}.d34{animation-delay:4.08s}.d35{animation-delay:4.20s}.d36{animation-delay:4.32s}.d37{animation-delay:4.44s}.d38{animation-delay:4.56s}.d39{animation-delay:4.68s}
+.orb1{animation:float 12s ease-in-out infinite}.orb2{animation:float 14s ease-in-out infinite reverse}
+.wave{animation:wv 9s linear infinite}.wave2{animation:wv 6s linear infinite}
+@keyframes wv{to{transform:translateX(-800px)}}
+</style>
+<defs><clipPath id="f"><rect width="1200" height="260" rx="28"/></clipPath><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#e5e7eb" stroke-width="1"/></pattern><filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter></defs>
+
+<g clip-path="url(#f)">
+  <rect width="1200" height="260" fill="#ffffff"/>
+  <rect width="1200" height="260" fill="url(#grid)" opacity="0.9"/>
+  <circle class="orb1" cx="200" cy="260" r="200" fill="#059669" opacity="0.14" filter="url(#blur)"/>
+  <circle class="orb2" cx="1000" cy="0" r="220" fill="#10b981" opacity="0.14" filter="url(#blur)"/>
+  <text class="sans fade d1" x="600" y="70" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="5" fill="#059669">LET'S WORK TOGETHER</text>
+  <text class="sans rise d3" x="600" y="128" text-anchor="middle" font-size="46" font-weight="900" letter-spacing="-1.5" fill="#111111">Let's build the future together.</text>
+  <text class="sans fade d5" x="600" y="164" text-anchor="middle" font-size="16" fill="#525252">Open to opportunities in AI, computer vision, robotics, and education-community collaborations.</text>
+  <text class="mono fade d7" x="600" y="212" text-anchor="middle" font-size="12" letter-spacing="2" fill="#10b981">"Build with purpose. Lead with vision."</text>
+  <path class="wave" d="M0,236 C150,216 250,256 400,236 S650,216 800,236 S1050,256 1200,236 S1450,216 1600,236 S1850,256 2000,236 S2250,216 2400,236 V260 H0 Z" fill="#059669" opacity=".25"/>
+  <path class="wave2" d="M0,244 C150,228 250,260 400,244 S650,228 800,244 S1050,260 1200,244 S1450,228 1600,244 S1850,260 2000,244 S2250,228 2400,244 V260 H0 Z" fill="#10b981" opacity=".35"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="259" rx="28" stroke="#e5e7eb"/>
+
+</svg>

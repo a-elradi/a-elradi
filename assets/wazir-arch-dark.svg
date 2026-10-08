@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="470" viewBox="0 0 1100 470" fill="none" role="img" aria-label="WAZIR multi-agent architecture">
+<title>WAZIR multi-agent architecture</title>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.mono{font-family:"JetBrains Mono","Fira Code","Cascadia Code",Consolas,"Courier New",monospace}
+.fade{opacity:0;animation:fade .9s ease-out forwards}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.22,.7,.3,1) forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.35)}}
+@keyframes glow{0%,100%{opacity:0.22;transform:scale(1)}50%{opacity:0.48;transform:scale(1.08)}}
+@keyframes float{0%,100%{transform:translate(0,0)}25%{transform:translate(-14px,-18px)}50%{transform:translate(10px,-8px)}75%{transform:translate(-8px,14px)}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes shimmer{from{transform:translateX(-1200px)}to{transform:translateX(1200px)}}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;animation-delay:0s!important;animation-iteration-count:1!important}}
+.d0{animation-delay:0.00s}.d1{animation-delay:0.12s}.d2{animation-delay:0.24s}.d3{animation-delay:0.36s}.d4{animation-delay:0.48s}.d5{animation-delay:0.60s}.d6{animation-delay:0.72s}.d7{animation-delay:0.84s}.d8{animation-delay:0.96s}.d9{animation-delay:1.08s}.d10{animation-delay:1.20s}.d11{animation-delay:1.32s}.d12{animation-delay:1.44s}.d13{animation-delay:1.56s}.d14{animation-delay:1.68s}.d15{animation-delay:1.80s}.d16{animation-delay:1.92s}.d17{animation-delay:2.04s}.d18{animation-delay:2.16s}.d19{animation-delay:2.28s}.d20{animation-delay:2.40s}.d21{animation-delay:2.52s}.d22{animation-delay:2.64s}.d23{animation-delay:2.76s}.d24{animation-delay:2.88s}.d25{animation-delay:3.00s}.d26{animation-delay:3.12s}.d27{animation-delay:3.24s}.d28{animation-delay:3.36s}.d29{animation-delay:3.48s}.d30{animation-delay:3.60s}.d31{animation-delay:3.72s}.d32{animation-delay:3.84s}.d33{animation-delay:3.96s}.d34{animation-delay:4.08s}.d35{animation-delay:4.20s}.d36{animation-delay:4.32s}.d37{animation-delay:4.44s}.d38{animation-delay:4.56s}.d39{animation-delay:4.68s}
+.flow{animation:dash 1.6s linear infinite}
+.glowbox{animation:gb 3s ease-in-out infinite}
+@keyframes gb{0%,100%{stroke-opacity:.12}50%{stroke-opacity:.4}}
+.killping{animation:kp 1.6s ease-out infinite;transform-origin:64px 235px}
+@keyframes kp{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.6);opacity:0}}
+</style>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#262626" stroke-width="1"/></pattern></defs>
+
+<rect width="1100" height="470" rx="24" fill="#0a0a0a"/>
+<rect width="1100" height="470" rx="24" fill="url(#grid)" opacity="0.55"/>
+<path class="flow" d="M550,191 C550,144.5 150,144.5 150,98" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,191 C550,144.5 416,144.5 416,98" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,191 C550,144.5 683,144.5 683,98" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,191 C550,144.5 950,144.5 950,98" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,279 C550,325.5 150,325.5 150,372" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,279 C550,325.5 416,325.5 416,372" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,279 C550,325.5 683,325.5 683,372" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/><path class="flow" d="M550,279 C550,325.5 950,325.5 950,372" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/>
+<path class="flow" d="M240,235 H440" stroke="#f59e0b" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="6 8"/>
+<path class="flow" d="M660,235 H860" stroke="#262626" stroke-width="1.5" stroke-dasharray="6 8"/>
+<circle r="3.5" fill="#34d399"><animateMotion dur="2.20s" begin="0.0s" repeatCount="indefinite" path="M550,191 C550,144.5 150,144.5 150,98"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="2.55s" begin="0.3s" repeatCount="indefinite" path="M550,191 C550,144.5 416,144.5 416,98"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="2.90s" begin="0.6s" repeatCount="indefinite" path="M550,191 C550,144.5 683,144.5 683,98"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="3.25s" begin="0.9s" repeatCount="indefinite" path="M550,191 C550,144.5 950,144.5 950,98"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="2.20s" begin="1.2s" repeatCount="indefinite" path="M550,279 C550,325.5 150,325.5 150,372"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="2.55s" begin="1.5s" repeatCount="indefinite" path="M550,279 C550,325.5 416,325.5 416,372"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="2.90s" begin="1.8s" repeatCount="indefinite" path="M550,279 C550,325.5 683,325.5 683,372"/></circle><circle r="3.5" fill="#34d399"><animateMotion dur="3.25s" begin="2.1s" repeatCount="indefinite" path="M550,279 C550,325.5 950,325.5 950,372"/></circle>
+<circle r="3.5" fill="#f59e0b"><animateMotion dur="2.6s" repeatCount="indefinite" path="M240,235 H440"/></circle>
+<circle r="3.5" fill="#34d399"><animateMotion dur="2.4s" repeatCount="indefinite" path="M660,235 H860"/></circle>
+
+<g class="rise d2">
+  <rect x="440" y="191" width="220" height="88" rx="18" fill="#111111" stroke="#10b981" stroke-width="1.5"/>
+  <rect class="glowbox" x="440" y="191" width="220" height="88" rx="18" stroke="#10b981" stroke-width="6" stroke-opacity=".25"/>
+  <text class="sans" x="550" y="222" text-anchor="middle" font-size="22" font-weight="900" letter-spacing="3" fill="#ffffff">WAZIR</text>
+  <text class="mono" x="550" y="241" text-anchor="middle" font-size="10" letter-spacing="2" fill="#34d399">SUPERVISOR AGENT</text>
+  <rect x="462" y="254" width="58" height="6" rx="3" fill="#6b7280"/><rect x="522" y="254" width="58" height="6" rx="3" fill="#f59e0b"/><rect x="582" y="254" width="56" height="6" rx="3" fill="#10b981"/>
+  <text class="mono" x="462" y="272" font-size="8.5" fill="#6b7280" letter-spacing="1">READ</text>
+  <text class="mono" x="551" y="272" text-anchor="middle" font-size="8.5" fill="#f59e0b" letter-spacing="1">RECOMMEND</text>
+  <text class="mono" x="638" y="272" text-anchor="end" font-size="8.5" fill="#10b981" letter-spacing="1">EXECUTE</text>
+</g>
+
+<g class="rise d3">
+  <rect x="40" y="206" width="200" height="58" rx="14" fill="#111111" stroke="#f59e0b" stroke-opacity=".7"/>
+  <circle cx="64" cy="235" r="7" fill="#f59e0b"/><circle class="killping" cx="64" cy="235" r="7" stroke="#f59e0b" stroke-width="2"/>
+  <text class="sans" x="82" y="232" font-size="13" font-weight="700" fill="#ffffff">Telegram kill switch</text>
+  <text class="mono" x="82" y="250" font-size="10" fill="#9ca3af">/pause  /resume  /status</text>
+</g>
+
+<g class="rise d4">
+  <rect x="860" y="194" width="200" height="82" rx="14" fill="#111111" stroke="#262626"/>
+  <text class="sans" x="878" y="218" font-size="13" font-weight="700" fill="#ffffff">Audit trail</text>
+  <text class="mono" x="878" y="236" font-size="10" fill="#9ca3af">trigger → decision → approval</text>
+  <text class="mono" x="878" y="250" font-size="10" fill="#9ca3af">→ result</text>
+  <text class="sans" x="878" y="268" font-size="11" font-weight="600" fill="#34d399">Live ops dashboard</text>
+</g>
+
+<text class="mono" x="40" y="454" font-size="10" fill="#6b7280" letter-spacing="2">9 AGENTS · 3-TIER PERMISSIONS · 3 REGIONAL SHOPIFY STORES · LIVE IN PRODUCTION</text>
+<text class="mono" x="1060" y="454" text-anchor="end" font-size="10" fill="#6b7280">custom automation engine</text>
+
+<g class="rise" style="animation-delay:0.50s">
+  <rect x="40" y="40" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="40" y="40" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="58" y="66" font-size="13" font-weight="700" fill="#ffffff">Automation &amp; System Health</text>
+  <text class="mono" x="58" y="85" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 01</text>
+</g>
+<g class="rise" style="animation-delay:0.60s">
+  <rect x="306" y="40" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="306" y="40" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="324" y="66" font-size="13" font-weight="700" fill="#ffffff">Support Memory</text>
+  <text class="mono" x="324" y="85" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 02</text>
+</g>
+<g class="rise" style="animation-delay:0.70s">
+  <rect x="573" y="40" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="573" y="40" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="591" y="66" font-size="13" font-weight="700" fill="#ffffff">Market Intelligence</text>
+  <text class="mono" x="591" y="85" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 03</text>
+</g>
+<g class="rise" style="animation-delay:0.80s">
+  <rect x="840" y="40" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="840" y="40" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="858" y="66" font-size="13" font-weight="700" fill="#ffffff">SEO &amp; Content</text>
+  <text class="mono" x="858" y="85" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 04</text>
+</g>
+<g class="rise" style="animation-delay:0.90s">
+  <rect x="40" y="372" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="40" y="372" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="58" y="398" font-size="13" font-weight="700" fill="#ffffff">Technical QA</text>
+  <text class="mono" x="58" y="417" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 05</text>
+</g>
+<g class="rise" style="animation-delay:1.00s">
+  <rect x="306" y="372" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="306" y="372" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="324" y="398" font-size="13" font-weight="700" fill="#ffffff">Shopping Experience</text>
+  <text class="mono" x="324" y="417" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 06</text>
+</g>
+<g class="rise" style="animation-delay:1.10s">
+  <rect x="573" y="372" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="573" y="372" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="591" y="398" font-size="13" font-weight="700" fill="#ffffff">Sales &amp; Retention</text>
+  <text class="mono" x="591" y="417" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 07</text>
+</g>
+<g class="rise" style="animation-delay:1.20s">
+  <rect x="840" y="372" width="220" height="58" rx="14" fill="#111111" stroke="#262626"/>
+  <rect x="840" y="372" width="4" height="58" rx="2" fill="#10b981" opacity=".9"/>
+  <text class="sans" x="858" y="398" font-size="13" font-weight="700" fill="#ffffff">Google Ads</text>
+  <text class="mono" x="858" y="417" font-size="10" fill="#6b7280" letter-spacing="1.5">SPECIALIST 08</text>
+</g>
+<rect x=".5" y=".5" width="1099" height="469" rx="24" stroke="#262626"/>
+
+</svg>
