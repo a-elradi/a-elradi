@@ -163,7 +163,7 @@ An autonomous mobile robot for pharmaceutical warehouse picking. It navigates to
 
 <a href="https://github.com/AMR-Warehouse-Team/AMR-Warehouse-System"><img src="https://img.shields.io/badge/Repository-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
 <a href="https://navixaa.vercel.app"><img src="https://img.shields.io/badge/Dashboard-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Dashboard"></a>
-<a href="https://github.com/a-elradi/Astra-Pro-Vision-Tests"><img src="https://img.shields.io/badge/Vision_experiments-0a0a0a?style=flat-square&logo=opencv&logoColor=10b981" alt="Vision experiments"></a>
+<a href="https://aelradi.engineer"><img src="https://img.shields.io/badge/Vision_experiments-0a0a0a?style=flat-square&logo=opencv&logoColor=10b981" alt="Vision experiments"></a>
 
 </td>
 </tr>
@@ -184,9 +184,9 @@ An autonomous mobile robot for pharmaceutical warehouse picking. It navigates to
 <a href="https://door2door-iota.vercel.app/"><img src="https://img.shields.io/badge/Live-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
 </td>
 <td width="33.33%" valign="top">
-<a href="https://github.com/a-elradi/TECHTRAP"><img src="assets/projects/techtrap.svg" width="100%" alt="TECHTRAP"></a>
+<a href="https://aelradi.engineer"><img src="assets/projects/techtrap.svg" width="100%" alt="TECHTRAP"></a>
 <p><b>TECHTRAP</b><br>Therapeutic gaming platform that assesses children's neuro-motor development from a webcam in real time and produces AI doctor reports. MindSpore · MediaPipe · OpenCV. Huawei ICT Competition.</p>
-<a href="https://github.com/a-elradi/TECHTRAP"><img src="https://img.shields.io/badge/Repository-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
+<a href="https://aelradi.engineer"><img src="https://img.shields.io/badge/Case_study-0a0a0a?style=flat-square&logo=googlechrome&logoColor=10b981" alt="Case study"></a>
 </td>
 <td width="33.33%" valign="top">
 <a href="https://aelradi.engineer"><img src="assets/projects/firex.svg" width="100%" alt="FireX Robot"></a>
@@ -196,14 +196,14 @@ An autonomous mobile robot for pharmaceutical warehouse picking. It navigates to
 </tr>
 <tr>
 <td width="33.33%" valign="top">
-<a href="https://github.com/a-elradi/Astra-Pro-Vision-Tests"><img src="assets/projects/vision.svg" width="100%" alt="Astra Pro Vision Lab"></a>
+<a href="https://aelradi.engineer"><img src="assets/projects/vision.svg" width="100%" alt="Astra Pro Vision Lab"></a>
 <p><b>Astra Pro Vision Lab</b><br>Depth streaming, RGB-D fusion, QR and box detection, distance estimation and visual servoing experiments with the Orbbec Astra Pro — the groundwork for the AMR's vision node.</p>
-<a href="https://github.com/a-elradi/Astra-Pro-Vision-Tests"><img src="https://img.shields.io/badge/Repository-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
+<a href="https://aelradi.engineer"><img src="https://img.shields.io/badge/Case_study-0a0a0a?style=flat-square&logo=googlechrome&logoColor=10b981" alt="Case study"></a>
 </td>
 <td width="33.33%" valign="top">
-<a href="https://github.com/a-elradi/Sumo-Robot"><img src="assets/projects/sumo.svg" width="100%" alt="Sumo Robot"></a>
+<a href="https://aelradi.engineer"><img src="assets/projects/sumo.svg" width="100%" alt="Sumo Robot"></a>
 <p><b>Sumo Robot</b><br>🥇 Winner of the university Sumo Robot competition. IR-remote-controlled combat robot with a dual-axis hammer, attack mode and max-power boost. Arduino · L298N.</p>
-<a href="https://github.com/a-elradi/Sumo-Robot"><img src="https://img.shields.io/badge/Repository-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
+<a href="https://aelradi.engineer"><img src="https://img.shields.io/badge/Case_study-0a0a0a?style=flat-square&logo=googlechrome&logoColor=10b981" alt="Case study"></a>
 </td>
 <td width="33.33%" valign="top">
 <a href="https://aelradi.engineer"><img src="assets/projects/robonexus.svg" width="100%" alt="Robonexus"></a>
@@ -218,15 +218,23 @@ An autonomous mobile robot for pharmaceutical warehouse picking. It navigates to
 <br>
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/a-elradi/portfolio-website">
+<td width="33.33%">
+<a href="https://github.com/a-elradi/portfolio-showcase">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=portfolio-website&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=portfolio-website&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="portfolio-website">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=portfolio-showcase&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=portfolio-showcase&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="portfolio-showcase">
 </picture>
 </a>
 </td>
-<td width="50%">
+<td width="33.33%">
+<a href="https://github.com/a-elradi/wazir-agents-showcase">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=wazir-agents-showcase&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=wazir-agents-showcase&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="wazir-agents-showcase">
+</picture>
+</a>
+</td>
+<td width="33.33%">
 <a href="https://github.com/a-elradi/senior-saad-skill">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=senior-saad-skill&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
@@ -235,49 +243,13 @@ An autonomous mobile robot for pharmaceutical warehouse picking. It navigates to
 </a>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/a-elradi/AeroPredict-AI">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=AeroPredict-AI&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=AeroPredict-AI&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="AeroPredict-AI">
-</picture>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/a-elradi/Smart-Glasses-Project-ESP32-CAM">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Smart-Glasses-Project-ESP32-CAM&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Smart-Glasses-Project-ESP32-CAM&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="Smart-Glasses-Project-ESP32-CAM">
-</picture>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/a-elradi/Gesture-Controlled-Screen-Brightness-System">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Gesture-Controlled-Screen-Brightness-System&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Gesture-Controlled-Screen-Brightness-System&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="Gesture-Controlled-Screen-Brightness-System">
-</picture>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/a-elradi/Astra-Pro-Vision-Tests">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Astra-Pro-Vision-Tests&hide_border=true&bg_color=0a0a0a&title_color=34d399&icon_color=10b981&text_color=e5e7eb&show_owner=false">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=a-elradi&repo=Astra-Pro-Vision-Tests&hide_border=true&bg_color=ffffff&title_color=059669&icon_color=10b981&text_color=111111&show_owner=false" width="100%" alt="Astra-Pro-Vision-Tests">
-</picture>
-</a>
-</td>
-</tr>
 </table>
 
 | Project | What it is | Stack |
 |---|---|---|
-| **portfolio-website** ⭐ 5 | aelradi.engineer — animated 3D background, FAQ chat agent, live availability calendar, certificate gallery | Next.js · React · Tailwind |
+| **[aelradi.engineer](https://aelradi.engineer)** | My portfolio — animated 3D background, FAQ chat agent, live availability calendar, certificate gallery. [Film and pictures →](https://github.com/a-elradi/portfolio-showcase) | Next.js · React · Tailwind |
 | **senior-saad-skill** ⭐ 4 | "SAAD": a Claude Code skill that turns a project idea into a full system-design package (architecture, UX, prompts) | Claude Code · Markdown |
-| **AeroPredict-AI** | Flight on-time / delayed / cancelled prediction on 120k+ BTS & FAA flights with calibrated XGBoost and a Chart.js dashboard | Python · Flask · XGBoost |
+| **[AeroPredict-AI](https://aeropredict-ai.onrender.com/)** | Flight on-time / delayed / cancelled prediction on 120k+ BTS & FAA flights with calibrated XGBoost and a Chart.js dashboard | Python · Flask · XGBoost |
 | **Smart-Glasses-Project-ESP32-CAM** | Wearable camera prototype: ESP32-CAM firmware with SD buffering and a phone-side Flask receiver | C++ · ESP32 · Flask |
 | **Gesture-Controlled-Screen-Brightness** | Hand-gesture control of screen brightness from a webcam | Python · OpenCV |
 
